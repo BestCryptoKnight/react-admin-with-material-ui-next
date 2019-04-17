@@ -1,3 +1,7 @@
+# Description
+
+This repository for demonstration purpose of the bug after refreshing a page in the production build. Production dev staging URL http://dead-ticket.surge.sh
+
 # React-admin Demo
 
 This is a demo of the [react-admin](https://github.com/marmelab/react-admin) library for React.js. It creates a working administration for a fake poster shop named Posters Galore. You can test it online at http://marmelab.com/react-admin-demo.
